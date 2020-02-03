@@ -1,22 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 02, 2020
+### Day 0: 02 02, 2020 Sunday
 
 **Today's Progress**: Learned basics of SQL on datacamp, & started web development 101 on The Odin Project
 
 **Thoughts:** I enjoyed learning the basics of SQL, I wish it was free on datacamp though since my session was so short and ended very quickly. I switched over to The Odin project where I went over the basics & installations which installations took much longer than I thought. I am excited to start my first project tomorrow which will be my first rails application.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: February 3, 2020 Monday
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: I continued working with the Odin project
+
+**Thoughts**: Having trouble creating my first rails app.. Not sure if I downloaded some software wrong or what but I need to get to work now.. Hopefully tomorrow I will be done with installations, this is becoming a headache.
+
+**Link(s) to work**: supposed to be cars but it is not working http://localhost:3000/cars 
+
+
+### Day 2: February 4th, 2020 Tuesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
