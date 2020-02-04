@@ -18,10 +18,9 @@
 
 ### Day 2: February 4th, 2020 Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Got past a huge learning curve on the Odin Project.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Finally was able to make my first rails app worked. I had to uninstall and reinstall a few things.. Soo so happy to finally have figured this out
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. http://localhost:3000/cars
