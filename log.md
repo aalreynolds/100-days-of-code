@@ -20,7 +20,8 @@
 
 **Today's Progress**: Got past a huge learning curve on the Odin Project.
 
-**Thoughts** Finally was able to make my first rails app worked. I had to uninstall and reinstall a few things.. Soo so happy to finally have figured this out
+**Thoughts** Finally was able to make my first rails app worked. I had to uninstall and reinstall a few things.. Soo so happy to finally have figured this out. Officially done with the Installation phase and I will begin Git Basics tomorrow.
 
 **Link(s) to work**
 1. http://localhost:3000/cars
+2. https://floating-sierra-09573.herokuapp.com/cars/1
