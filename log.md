@@ -22,6 +22,14 @@
 
 **Thoughts** Finally was able to make my first rails app worked. I had to uninstall and reinstall a few things.. Soo so happy to finally have figured this out. Officially done with the Installation phase and I will begin Git Basics tomorrow.
 
-**Link(s) to work**
-1. http://localhost:3000/cars
-2. https://floating-sierra-09573.herokuapp.com/cars/1
+**Link to work**
+1. https://floating-sierra-09573.herokuapp.com/cars/1
+
+### Day 3: February 5th, 2020 Wednesday
+
+**Today's progress**: Started & Finished Git basics chapter.
+
+**Thoughts** Finishing the basics of git felt super easy compared to the installation chapter. I would like to make notecards from the git basics 2nd page, I won't have time to do that or go over them until I'm finished with this exam/class I have coming up.
+
+**Link to work**
+1.https://github.com/aalreynolds/git_test
