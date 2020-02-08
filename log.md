@@ -33,3 +33,34 @@
 
 **Link to work**
 1.https://github.com/aalreynolds/git_test
+
+### Day 5:
+February 6th, 2020 Thursday
+
+**Today's Progress**: I continued on the Odin project & FreeCodeCamp
+
+**Thoughts** the Front end section of the odin project directed me to FreeCodeCamp's Responsive Web Design Certification where I mostly skipped HTML since I already know this language and worked on CSS, I got a little more of a 3rd done.
+
+**Link(s) to work**
+1. none today
+
+### Day 6:
+February 7th, 2020 Friday
+
+**Today's Progress**: I continued on FreeCodeCamp
+
+**Thoughts** as per The Odin Projects Front end chapter I was working on FreeCodeCamp's Responsive Web design Certification again, I continued on the CSS portion where I got very close to completeing.. probably a little over double than yesterday. I should be done with the CSS portion by tomorrow and begin working on the applied Visual Design portion. At the rate I'm going (an hour a day) I should be done with this FreeCodeCamp section and The Odin Projects Front end chapter by Next friday. I've only been doing an hour a day right now because I'm super busy studying for a final and been training at a new job. I would like to start putting more hours in every day since I have a lot of fun doing this.
+
+**Link(s) to work**
+1. None Today.
+
+### Day :
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
