@@ -54,7 +54,28 @@ February 7th, 2020 Friday
 **Link(s) to work**
 1. None Today.
 
-### Day :
+### Day 7: Continued on The Odin Project/FreeCodeCamp
+
+
+**Today's Progress**: I continued on The Odin Projects 'The Front End' Section of the Web Development 101 where it directed me to freecodecamp.org to work on their 'Responsive Web Design Certification' section. I finished the basic CSS portion of it & will be continuing tomorrow with the applied visual design portion. I learned about CSS styling, id attrbutes, class attributes, inline style, sizing, & others.
+
+**Thoughts** Feeling good, looking forward to being done with freecodecamps Responsive web design certification section so that I can continue on with The Odin Project but so far, love learning it all! I might go over the HTML basics after finishing freecodecamps web design certification section because I skipped it since I have learned HTML before but I'm thinking it could maybe be a nice refresher.. We'll see!
+
+**Link(s) to work**
+1. None todday.
+
+### Day 8:
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 9:
 
 
 **Today's Progress**:
