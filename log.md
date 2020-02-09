@@ -64,7 +64,18 @@ February 7th, 2020 Friday
 **Link(s) to work**
 1. None todday.
 
-### Day 8:
+### Day 8: continued working on freecodecamp
+
+
+**Today's Progress**: Continued on freecodecamp as per the Odin projects "the front end' sections request. I was on the freecodecamps responsive web design certification again in the applied visual design portion. I got a little less than halfway through this portion. I'm hoping tomorrow I will be finished with this portion... I will still be working on freecodecamps responsive web design certification for about another 4 days or so.
+
+**Thoughts** Feeling good, but again.. very much looking forward to progress. I feel that the odin project focuses more on building a portfolio and freecodecamp mainly focuses on the skills which both are very good but I'm excited to start creating my own work.
+
+**Link(s) to work**
+1. none today.
+2.
+
+### Day 9:
 
 
 **Today's Progress**:
@@ -75,7 +86,62 @@ February 7th, 2020 Friday
 1.
 2.
 
-### Day 9:
+### Day 10:
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 11:
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 12:
+
+(should hopefully be done with freecodecamps section)
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 13:
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 14:
+
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 15:
 
 
 **Today's Progress**:
