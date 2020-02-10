@@ -75,15 +75,15 @@ February 7th, 2020 Friday
 1. none today.
 2.
 
-### Day 9:
+### Day 9: coded the minimum amount.
 
 
-**Today's Progress**:
+**Today's Progress**: Continued on freecodecamps responsive web design certification portion again, continued with applied visual design portion and ended with about 70% of the way through. I will be finishing this portion as I will have the day off to put more time into this.
 
-**Thoughts**
+**Thoughts** Looking forward to tomorrow!
 
 **Link(s) to work**
-1.
+1.none today
 2.
 
 ### Day 10:
