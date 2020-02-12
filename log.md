@@ -86,15 +86,15 @@ February 7th, 2020 Friday
 1.none today
 2.
 
-### Day 10:
+### Day 10: FreeCodeCamp
 
 
-**Today's Progress**:
+**Today's Progress**: Completed the applied visual design portion of FreeCodeCamps responsive web design certification.
 
-**Thoughts**
+**Thoughts** closer & closer to where I want to be babbyyyy
 
 **Link(s) to work**
-1.
+1.none today
 2.
 
 ### Day 11:
