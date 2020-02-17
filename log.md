@@ -55,7 +55,7 @@ February 7th, 2020 Friday
 1. None Today.
 
 ### Day 7: Continued on The Odin Project/FreeCodeCamp
-
+february 8th, 2020
 
 **Today's Progress**: I continued on The Odin Projects 'The Front End' Section of the Web Development 101 where it directed me to freecodecamp.org to work on their 'Responsive Web Design Certification' section. I finished the basic CSS portion of it & will be continuing tomorrow with the applied visual design portion. I learned about CSS styling, id attrbutes, class attributes, inline style, sizing, & others.
 
@@ -65,7 +65,7 @@ February 7th, 2020 Friday
 1. None todday.
 
 ### Day 8: continued working on freecodecamp
-
+february 9th, 2020
 
 **Today's Progress**: Continued on freecodecamp as per the Odin projects "the front end' sections request. I was on the freecodecamps responsive web design certification again in the applied visual design portion. I got a little less than halfway through this portion. I'm hoping tomorrow I will be finished with this portion... I will still be working on freecodecamps responsive web design certification for about another 4 days or so.
 
@@ -76,7 +76,7 @@ February 7th, 2020 Friday
 2.
 
 ### Day 9: coded the minimum amount.
-
+february 10th, 2020
 
 **Today's Progress**: Continued on freecodecamps responsive web design certification portion again, continued with applied visual design portion and ended with about 70% of the way through. I will be finishing this portion as I will have the day off to put more time into this.
 
@@ -87,7 +87,7 @@ February 7th, 2020 Friday
 2.
 
 ### Day 10: FreeCodeCamp
-
+february 11th, 2020
 
 **Today's Progress**: Completed the applied visual design portion of FreeCodeCamps responsive web design certification.
 
@@ -98,40 +98,73 @@ February 7th, 2020 Friday
 2.
 
 ### Day 11:
+february 12th, 2020
 
+**Today's Progress**: FreeCodeCamp
 
-**Today's Progress**:
-
-**Thoughts**
+**Thoughts** forgot to write my progress down for this day.
 
 **Link(s) to work**
-1.
+1. none.
 2.
 
-### Day 12:
+### Day 12: FreeCodeCamp
+February 13th, 2020
 
-(should hopefully be done with freecodecamps section)
-**Today's Progress**:
+**Today's Progress**: forgot to write my progress
 
-**Thoughts**
+**Thoughts** FreeCodeCamp again.
 
 **Link(s) to work**
-1.
+1. none.
 2.
 
-### Day 13:
+### Day 13: Free Code Camp
+february 14th, 2020
 
+**Today's Progress**: forgot to write my progress
 
-**Today's Progress**:
-
-**Thoughts**
+**Thoughts** freecodecamp coding.
 
 **Link(s) to work**
-1.
+1. none.
 2.
 
 ### Day 14:
+february 15th, 2020
 
+**Today's Progress**: worked a 14 hour shift this day
+
+**Thoughts** was unable to code.
+
+**Link(s) to work**
+1. none
+2.
+
+### Day 15: Free Code Camp
+February 16th, 2020
+
+**Today's Progress**: almost finished with free code camps lessons.
+
+**Thoughts** almost there.
+
+**Link(s) to work**
+1. none
+2.
+
+### Day 16: Free Code Camp
+February 17th, 2020
+
+**Today's Progress**: Finished FreeCodeCamps lessons, and now I have to work on the projects to show my knowledge.
+
+**Thoughts** Taking longer than I originally thought. Finished the lessons, now I need to start on the projects. I feel like FreeCodeCamp isn't the best for retaining knowledge, TheOdinProject is a bit better at that with their lessons they do. Hopefully I can bust these out quickly and have them look good!
+
+**Link(s) to work**
+1. none
+2.
+
+### Day 17:
+February 18th, 2020
 
 **Today's Progress**:
 
@@ -141,8 +174,63 @@ February 7th, 2020 Friday
 1.
 2.
 
-### Day 15:
+### Day :
+February , 2020
 
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day :
+February , 2020
 
 **Today's Progress**:
 
