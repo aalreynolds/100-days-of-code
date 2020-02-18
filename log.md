@@ -166,6 +166,17 @@ February 17th, 2020
 ### Day 17:
 February 18th, 2020
 
+**Today's Progress**: started project 2 of responsive web design certification on FreeCodeCamp.
+
+**Thoughts** I started the 2nd out of 4 projects of the responsive web design certification on FreeCodeCamp, I have a little bit left to finish which should be easy.. Just customizing everything, adding personalized coloring, font and styles.
+
+**Link(s) to work**
+1.https://codepen.io/aalreynolds/pen/mdJEqgj
+2.
+
+### Day 18:
+February 19th, 2020
+
 **Today's Progress**:
 
 **Thoughts**
@@ -229,6 +240,46 @@ February , 2020
 1.
 2.
 
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+### Day :
+February , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
 ### Day :
 February , 2020
 
