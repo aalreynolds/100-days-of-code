@@ -155,12 +155,12 @@ February 16th, 2020
 ### Day 16: Free Code Camp
 February 17th, 2020
 
-**Today's Progress**: Finished FreeCodeCamps lessons, and now I have to work on the projects to show my knowledge.
+**Today's Progress**: Finished FreeCodeCamps lessons, and now I have to work on the projects to show my knowledge.Finished 1/4 projects.
 
 **Thoughts** Taking longer than I originally thought. Finished the lessons, now I need to start on the projects. I feel like FreeCodeCamp isn't the best for retaining knowledge, TheOdinProject is a bit better at that with their lessons they do. Hopefully I can bust these out quickly and have them look good!
 
 **Link(s) to work**
-1. none
+1. https://codepen.io/aalreynolds/full/OJVXyrr
 2.
 
 ### Day 17:
