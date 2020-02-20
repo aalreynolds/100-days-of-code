@@ -177,27 +177,16 @@ February 18th, 2020
 ### Day 18:
 February 19th, 2020
 
-**Today's Progress**:
+**Today's Progress**: project 2 of FreeCodeCamp
 
-**Thoughts**
-
-**Link(s) to work**
-1.
-2.
-
-### Day :
-February , 2020
-
-**Today's Progress**:
-
-**Thoughts**
+**Thoughts** I finished project 2 of FreeCodeCamp where I had to make a survey page. This was a lot of fun to do, I learned a lot and hoping I will be able to use this as part of my portfolio.
 
 **Link(s) to work**
-1.
+1.https://codepen.io/aalreynolds/pen/BaNLZvP
 2.
 
-### Day :
-February , 2020
+### Day 19:
+February 20, 2020
 
 **Today's Progress**:
 
@@ -207,8 +196,103 @@ February , 2020
 1.
 2.
 
-### Day :
-February , 2020
+### Day 20:
+February 21, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 21:
+February 22, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 22:
+February 23, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 23:
+February 24, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 24:
+February 25, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+### Day 25:
+February 26, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+### Day 26:
+February 27, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+### Day 27:
+February 28, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+### Day 28: Leap Year
+February 29, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day 29:
+March 1, 2020
 
 **Today's Progress**:
 
@@ -219,7 +303,7 @@ February , 2020
 2.
 
 ### Day :
-February , 2020
+March , 2020
 
 **Today's Progress**:
 
@@ -230,7 +314,7 @@ February , 2020
 2.
 
 ### Day :
-February , 2020
+March , 2020
 
 **Today's Progress**:
 
@@ -241,7 +325,7 @@ February , 2020
 2.
 
 ### Day :
-February , 2020
+March , 2020
 
 **Today's Progress**:
 
@@ -250,8 +334,9 @@ February , 2020
 **Link(s) to work**
 1.
 2.
+
 ### Day :
-February , 2020
+March , 2020
 
 **Today's Progress**:
 
@@ -260,8 +345,9 @@ February , 2020
 **Link(s) to work**
 1.
 2.
+
 ### Day :
-February , 2020
+March , 2020
 
 **Today's Progress**:
 
@@ -270,8 +356,9 @@ February , 2020
 **Link(s) to work**
 1.
 2.
+
 ### Day :
-February , 2020
+March , 2020
 
 **Today's Progress**:
 
@@ -280,8 +367,20 @@ February , 2020
 **Link(s) to work**
 1.
 2.
+
 ### Day :
-February , 2020
+March , 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1.
+2.
+
+### Day :
+March , 2020
 
 **Today's Progress**:
 
