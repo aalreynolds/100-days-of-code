@@ -188,12 +188,12 @@ February 19th, 2020
 ### Day 19:
 February 20, 2020
 
-**Today's Progress**:
+**Today's Progress**:Worked on the 3rd project in the FCC web development foundation.
 
-**Thoughts**
+**Thoughts** I started creating a product landing page. I created all of the html, and got the basic CSS where I want it right now but going to finish really going through the CSS and making it Very aesthetically pleasing so that I can add it to my portfolio.
 
 **Link(s) to work**
-1.
+1.https://codepen.io/aalreynolds/pen/KKpgjQr
 2.
 
 ### Day 20:
